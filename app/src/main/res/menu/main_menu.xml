@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Weather Report"
+        android:id="@+id/weather_report"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="Weather Report 1"
+        android:id="@+id/weather_report_one"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="Weather Report 2"
+        android:id="@+id/weather_report_two"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="SQLite Database"
+        android:id="@+id/sqlite_database"
+        app:showAsAction="never"
+        />
+
+</menu>

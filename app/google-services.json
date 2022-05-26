@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954427441616",
+    "project_id": "nouf-app",
+    "storage_bucket": "nouf-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954427441616:android:5a1216cb030fc4a7e739d5",
+        "android_client_info": {
+          "package_name": "com.nouf.noufapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954427441616-hd1ifc7hufomo83i78cgbocs99l24ehe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH3Wi8eCTfnohWzMkAcjudIMvgbPkaILE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954427441616-hd1ifc7hufomo83i78cgbocs99l24ehe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
